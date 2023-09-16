@@ -1,0 +1,111 @@
+.moto_xl_header_menu_li{
+    display: flex !important;
+    align-items: center !important;
+}
+.moto_xl_header_menu_li a{
+    height: 38px !important;
+    display: flex !important;
+    align-items: center !important;
+}
+.moto_xl_header_btn_search{
+    text-decoration: none !important;
+    color: #333 !important;
+    font-size: 24px !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+}
+.moto_xl_header_logo{
+    margin: 0px !important;
+    padding: 0px !important;
+    height: 90px !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+.moto_xl_header_logo img{
+    width: 160px !important;
+}
+.moto_sm_header_logo{
+    width: 130px !important;
+    height: 50px !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+.moto_sm_btn_garaje{
+    background-color: #f0f0f0 !important;
+    color: #333333 !important;
+}
+.moto_sm_btn_garaje:hover{
+    background-color:#f1f2f6 !important;
+}
+.moto_sm_btn_garaje .moto_sm_icon{
+    font-size: 22px !important;
+}
+.moto_sm_btn_garaje span{
+    margin-left: 10px !important;
+}
+.moto_xs_menu_telefonos{
+    font-size: 13px !important;
+}
+.moto_cursor_pointer{
+    cursor: pointer !important;
+}
+.adminBannerSection{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 40px;
+    background-color: #34495e;
+    color: #fff;
+    padding-left: 5px;
+    padding-right: 5px;
+    display: flex;
+    flex-direction: row;
+}
+.adminBannerSection .adminBannerSectionLeft,.adminBannerSection .adminBannerSectionRight{
+    width: 50%;
+    height: 40px;
+    display: flex;
+    align-items: center;
+}
+.adminBannerSection .adminBannerSectionLeft img{
+    height: 30px;
+    margin-left: 40px;
+}
+.adminBannerSection .adminBannerSectionLeft div{
+    margin-left: 20px;
+
+}
+.adminBannerSection .adminBannerSectionRight {
+    justify-content: flex-end;
+}
+.adminBannerSection .adminBannerSectionRight  .btnCloseSession{
+    margin-left: 20px;
+    margin-right: 40px;
+    width: 100px;
+    height: 30px;
+    background-color: #0a3d62;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 13px;
+    cursor: pointer;
+}
+.adminBannerSection .adminBannerSectionRight  .btnCloseSession:hover{
+    background-color: #f1f2f6;
+    color: #222f3e;
+}
+.marginTop80{
+    margin-top: 80px;
+}
+.dtnAddiIntegration{
+    margin-top: 30px !important;
+    width: 100% !important;
+    max-width: 100% !important;
+}
+#addi-banner_1b88b8wum{
+    width: 100% !important;
+    max-width: 100% !important;
+}
